@@ -1,0 +1,6 @@
+{
+  "name": "命运迷局移动版",
+  "description": "《命运迷局》高保真移动端UI/UX适配原型、交互系统与设计规范说明书",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
